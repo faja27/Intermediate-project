@@ -1,0 +1,33 @@
+data:
+  raw_path: data/raw
+  processed_path: data/processed
+  split:
+    train: 0.80
+    val: 0.10
+    test: 0.10
+  image_size: 224
+  num_classes: 28
+  mean: [0.485, 0.456, 0.406]
+  std: [0.229, 0.224, 0.225]
+
+model:
+  architecture: resnet50
+  learning_rate: 0.0001
+  batch_size: 32
+  epochs: 50
+  dropout: 0.3
+  early_stopping:
+    patience: 10
+
+augmentation:
+  rotation_degrees: 15
+  horizontal_flip: true
+  color_jitter: true
+
+backend:
+  host: 0.0.0.0
+  port: 8000
+
+logging:
+  level: INFO
+  log_file: logs/training.log
