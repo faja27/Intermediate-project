@@ -21,13 +21,21 @@ An image classification system to detect various types of skin conditions.
 - **Tech Stack:** Python, CNN (Convolutional Neural Networks).
 - **Objective:** To assist in the early identification of skin conditions using digital image processing to support preliminary medical diagnosis.
 
+### 4. Know Your Batik
+A CNN-based batik pattern recognition system with an interactive web interface to help users identify and learn about Indonesian batik motifs.
+- **Tech Stack:** Python, TensorFlow/Keras, FastAPI, React.
+- **Architecture:** Fine-tuned **ResNet50** trained on a curated dataset of 28 batik classes and 2,216 images sourced from across Indonesia.
+- **Features:** Upload any batik image to get top predictions with confidence scores, browse a gallery of all 28 motifs, and explore the cultural background of each pattern.
+- **Dataset:** 28 classes including regional motifs such as Jawa_Barat_Megamendung, Kalimantan_Dayak, Papua_Cendrawasih, Yogyakarta_Kawung, and more.
+- **Status:** 🔄 In Progress
+
 ---
 
 ## 🛠️ Tech Stack & Tools
 - **Languages:** Python, SQL
 - **AI/ML:** TensorFlow, Keras, Scikit-Learn
-- **Architectures:** CNN, MobileNetV2, LSTM
-- **Tools:** Google Colab, Git/GitHub, Streamlit
+- **Architectures:** CNN, MobileNetV2, ResNet50, LSTM
+- **Tools:** Google Colab, Git/GitHub, Streamlit, FastAPI, React
 
 ---
 
@@ -35,4 +43,6 @@ An image classification system to detect various types of skin conditions.
 Each project folder has different dependencies. Generally, you can run a project by:
 1. Cloning this repository:
    ```bash
-   git clone [https://github.com/faja27/Intermediate-project.git](https://github.com/faja27/Intermediate-project.git)
+   git clone https://github.com/faja27/Intermediate-project.git
+   ```
+2. Navigate to the project folder and follow the `README.md` inside each subdirectory.
