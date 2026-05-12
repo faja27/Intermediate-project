@@ -2,8 +2,10 @@
 dataset/
 data/raw/
 data/processed/
+.claude/
 
 # Models
+models/*.pth
 models/*.h5
 models/*.pkl
 
