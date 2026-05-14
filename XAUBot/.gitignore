@@ -1,0 +1,10 @@
+# Ignore large data folders
+data/
+dump/
+
+# Ignore pycache
+__pycache__/
+
+# Ignore log files
+logs/
+*.log 

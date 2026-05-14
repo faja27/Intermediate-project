@@ -1,0 +1,9 @@
+{
+  "starting_balance": 1000.0,
+  "daily_pnl": 0.0,
+  "daily_trades": 0,
+  "total_loss": 0.0,
+  "last_date": "2026-04-27",
+  "halted": false,
+  "halt_reason": null
+}
