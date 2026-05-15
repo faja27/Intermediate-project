@@ -39,7 +39,7 @@ An ML/AI-based automated trading bot for **XAUUSD (Gold/USD)** on MetaTrader 5, 
 - **Architectures:** CNN, MobileNetV2, ResNet50, LSTM
 - **Tools:** Google Colab, Git/GitHub, Streamlit, FastAPI, React, MetaTrader5
 
----
+----
 
 ## 📂 How to Run the Projects
 Each project folder has different dependencies. Generally, you can run a project by:
