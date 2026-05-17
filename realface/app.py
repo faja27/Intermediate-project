@@ -1,9 +1,10 @@
+import os
 import streamlit as st
 import numpy as np
 import onnxruntime as ort
 from PIL import Image
 
-MODEL_PATH = "model/realface.onnx"
+MODEL_PATH = os.path.join(os.path.dirname(__file__), "model", "realface.onnx")
 
 MEAN = np.array([0.485, 0.456, 0.406], dtype=np.float32)
 STD  = np.array([0.229, 0.224, 0.225], dtype=np.float32)
