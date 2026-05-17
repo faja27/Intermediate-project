@@ -1,5 +1,0 @@
-*.csv 
-*.zip 
-*.rar 
-.claude/  *.pt  *.pth  __pycache__/  kaggle.json 
-.claude/  *.pt  *.pth  __pycache__/  kaggle.json  Classification of skin diseases/train/  Classification of skin diseases/valid/  Classification of skin diseases/test/ 
