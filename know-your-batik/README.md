@@ -288,4 +288,4 @@ All development was done on Windows 10, without a dedicated GPU.
 
 This project is licensed under the [Apache 2.0 License](LICENSE).
 
-The dataset is derived from the [Batik-Indonesia dataset by Muhammad Salman Al Faridzi](https://www.kaggle.com/datasets/muhammadsalmanalfaridzi/batik-indonesia), also released under Apache 2.0.
+The dataset is derived from the [Batik-Indonesia dataset by Muhammad Salman Al Faridzi](https://www.kaggle.com/datasets/fisheightcharacter/indonesian-batik-dataset-enhanced-and-cleaned), also released under Apache 2.0.
