@@ -4,7 +4,7 @@ A collection of intermediate-level projects focusing on Artificial Intelligence,
 
 ---
 
-### 🚀 Featured Projects
+#4## 🚀 Featured Projects
 
 ### 1. American Sign Language (ASL) Alphabet Recognition
 A real-time ASL alphabet recognition system.
