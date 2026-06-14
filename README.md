@@ -31,7 +31,7 @@ An ML/AI-based automated trading bot for **XAUUSD (Gold/USD)** on MetaTrader 5, 
 - **Performance:** Win Rate 72.1% | Profit Factor 2.71 | Max Drawdown 4.1% (backtest 2020–2025).
 - **Features:** Trailing stop management, dollar-based risk controls, daily circuit breaker, automated trade journal to Excel.
 
-### 5. RealFace — AI Face Authenticity Detector
+## 5. RealFace — AI Face Authenticity Detector
 A binary image classification system that detects whether a face image is a real photograph or an AI-generated (synthetic) face, powered by EfficientNet-B0 fine-tuned on StyleGAN3-generated faces.
 - **Tech Stack:** Python, PyTorch, ONNX Runtime, Streamlit.
 - **Architecture:** Fine-tuned **EfficientNet-B0** using a two-phase training strategy (frozen backbone → full fine-tune) on 10,000 face images (5,000 real + 5,000 StyleGAN3-generated).
