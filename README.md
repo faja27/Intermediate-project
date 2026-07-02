@@ -2,7 +2,7 @@
 
 A collection of intermediate-level projects focusing on Artificial Intelligence, Machine Learning, and Computer Vision. This repository summarizes my exploration in developing intelligent solutions and applying various Deep Learning architectures to specific datasets.
 
----a
+---
 
 ### 🚀 Featured Projects
 
