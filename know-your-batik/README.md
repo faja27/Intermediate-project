@@ -7,7 +7,7 @@
 [![React](https://img.shields.io/badge/Frontend-React-61DAFB.svg)](https://react.dev/)
 [![Status](https://img.shields.io/badge/Status-Beta%20%2F%20Demo%20Ready-blue.svg)]()
 
-Aa CNN-based Indonesian batik pattern recognition system with an interactive web interface for identifying and learning about batik motifs from across the archipelago.
+A CNN-based Indonesian batik pattern recognition system with an interactive web interface for identifying and learning about batik motifs from across the archipelago.
 
 ---
 
