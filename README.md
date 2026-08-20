@@ -6,7 +6,7 @@ A collection of intermediate-level projects focusing on Artificial Intelligence,
 
 ## 🚀 Featured Projects
 
-### 1. American Sign Language (ASL) Alphabet Recognition
+## 1. American Sign Language (ASL) Alphabet Recognition
 A real-time ASL alphabet recognition system.
 - **Tech Stack:** Python, TensorFlow/Keras, OpenCV, Streamlit.
 - **Architecture:** Utilizes a fine-tuned **MobileNetV2** to recognize 29 categories of sign language alphabets with high efficiency for mobile/web platforms.
