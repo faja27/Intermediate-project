@@ -50,7 +50,7 @@ A binary image classification system that detects whether a face image is a real
 
 ---
 
-### 📂 How to Run the Projects
+## 📂 How to Run the Projects
 Each project folder has different dependencies. Generally, you can run a project by:
 1. Cloning this repository:
    ```bash
